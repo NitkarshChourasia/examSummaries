@@ -1,0 +1,247 @@
+1.Clarify why proficient programming isn't only the projects that are created
+for a client.
+2.Why we need software engineering?
+3.What is software engineering? Explain in brief.
+4.Explain Software development Life Cycle.
+
+
+1.Write a set of functional and non-functional specifications for the banking
+system, setting out its expected reliability and response time.
+2.With an example write the customer requirements of ATM machine
+3.Write a short note the significance of SRS.
+4.List the advantages of SRS.
+
+
+1)What is a project?
+2)What is a process?
+3)What is the difference between project and process?
+4)What are the different types of processes?
+5)What are the advantages of project management?
+6)What are the steps in project management?
+7)What are the different software component processes?
+8)Explain Software Requirement Specification Stage.
+9)Explain Software Testing phase.
+10)Write in detail about the Software Maintenance phase.
+11)What is the difference between verification and validation?
+
+
+
+1)Explain Waterfall model.List its advantages and disadvantages.
+2)What is the RAD model?
+3)Explain different types of prototyping models.
+4)What is meant by a prototype software model?
+5)Explain in brief iterative development model.
+6)Explain the time boxing model.
+7)Write a note on RUP.
+8)What are the different phases in the Waterfall Software Model?
+9)List the merits and demerits of each software development model.
+10)Explain any two phases of the Rationalised Unified Process Model.
+11)When is the waterfall model used and when is the iterative development
+model used?
+12)What are the principles and practices in the RUP model?
+
+
+1)What is agile software development methodology?
+2)When to use a plan driven approach and agile approach?
+3)What is Extreme Programming?
+4)What is pair programming?
+5)Why is it necessary for larger businesses to use agile methodology?
+6)What is the Scrum approach?
+7)How is the development of smaller software systems different from large
+software systems?
+8)What are the different technical,human and organisational issues that one has
+to consider while striking a balance between plan driven and agile approach?
+9)What are the limitations of agile methods?
+10)What are the benefits of scrum methodology?
+
+Q1Explain what is socio-technical system?
+Q2Describe the emergent properties of socio-technical system>
+Q3Illustrate the System engineering process along with-it types?
+Q4Describe about the need of Organizational process in socio-technical system?
+Q5Describe in short about Legacy Systems?
+
+Q1 Explain the four dimensions of Dependability?
+Q2 What is Safety Critical Systems?
+Q3 What are the three principal types of critical system? Explain the differences
+between these?
+Q4 Suggest six reasons why dependability is important in critical systems.
+Q5 Giving reasons for your answer, suggest which dependability attributes are
+likely to be most critical for the following systems: • An Internet server provided
+by an ISP with thousands of customers • A computer-controlled scalpel used in
+keyhole surgery • A directional control system used in a satellite launch vehicle •
+An Internet-based personal finance management system.
+
+1. What are the underlying principles that guide analysis work?
+2. Explain Analysis Concept and Principles with neat diagram.
+3. What is requirement Management? Explain.
+4. Explain Requirements Validation Technique
+5. What are different Principal stages to a change management process?
+
+1.What are the advantages of Architectural Design? Which factors are
+dependable during the design?
+2.What is the design perspective of architectural design? Explain.
+3.What are the three system organization styles of architectural design? Explain
+in brief.
+4.Explain use case diagram with neat diagram.
+5.Write a short note on object model.
+
+1.What are the advantages of Architectural Design? Which factors are
+dependable during the design?
+2.What are the three system organization styles of architectural design? Explain
+in brief.
+3.What is the design perspective of architectural design? Explain.
+4.What are the three system organization styles of architectural design? Explain
+in brief.
+5.Explain Object oriented decomposition.
+
+1. Why do we need UI design?
+2. Explain the design issues
+3. What is the design process?
+4. Write a short note on:
+a)User Analysis
+b)RAD
+c)Testing in XP
+d)Interface Evaluation
+5. What is Software Prototyping?
+
+1. Take a Real- time Project and prepare the chart of Management activities
+related with the software Project.
+2. Take a Real- time Project and list out the stages of software Project.
+3. Take a Real- time Project and write up the Scheduling for the Project.
+4. Take a Real- time Project prepare the Risk factors of the Software Project.
+
+1.Explain the process of Software Quality Management
+2.Explain quality assurance and standards
+3.Explain how product quality can be planned
+4.Explain what is software metric and measurement?
+5.What are the key component measurement process?
+
+1.Explain the differences between verification and validation, and explain why
+validation is a particularly difficult process.
+2.Explain why program inspections are an effective technique for discovering
+errors in a program.
+3.What types of errors are unlikely to be discovered through inspections?
+4.Suggest why an organization with a competitive, elitist culture would
+probably find it difficult to introduce program inspections as a V & V
+technique.
+5.Explain why it may be cost-effective to use formal methods in the
+development of safety critical software systems.
+6.Why do you think that some developers of this type of system are against the
+use of formal methods?
+
+1.What is the objective of software cost estimation?
+2.What are the main costs of a software development project?
+3.How programmer productivity can be measured by function points?
+4.How programmer productivity can be measured by object points?
+5.List some cost estimation techniques that are not based on any size related
+metric of software?
+6.Explain the expression of algorithmic cost modelling?
+
+1.Write a note on ISO 9000 quality standards.
+2.Explain process improvement cycle.
+3.Explain CMMI framework.
+4.Explain Software as service.
+5.Explain service engineering with neat diagram.
+
+18.1. What are the most important distinctions between services and software
+components?
+18.2. Explain why SOAs should be based on standards.
+18.3. Define an interface specification for the Currency Converter and Check
+credit rating services.
+18.4. Design possible input and output messages for the services and specify
+these in the UML or in XML.
+18.5. Giving reasons for your answer, suggest two important types of applications
+where
+you
+would not recommend the use of service-oriented architecture.
+18.6. Using BPMN, design a workflow that uses the catalog service to look up
+and place orders for computer equipment.
+337SOFTWARE ENGINEERING
+18.7. Explain what is meant by a ‘compensation action’ and, using an example,
+show why these actions may have to be included in workflows.
+18.8. For the example of the vacation package reservation service, design a
+workflow that will book ground transportation for a group of passengers
+arriving at an airport. They should be given the option of booking either a
+taxi or renting a car. You may assume that the taxi and
+car rental companies offer web services to make a reservation.
+18.9. Using an example, explain in detail why the thorough testing of services
+that include compensation actions is difficult.
+
+
+
+19.1. What are the major technical and nontechnical factors that hinder software
+reuse? Do you personally reuse much software and, if not, why not?
+19.2. Suggest why the savings in cost from reusing existing software are not
+simply proportional to the size of the components that are reused.
+19.3. Give four circumstances where you might recommend against software
+reuse.
+19.4. Explain what is meant by ‘inversion of control’ in application frameworks.
+Explain why this approach could cause problems if you integrated two
+separate systems that were originally created using the same application
+framework.
+361SOFTWARE ENGINEERING
+19.5. Most desktop software, such as word processing software, can be
+configured in a number of different ways. Examine software that you
+regularly use and list the configuration options for that software. Suggest
+difficulties
+that
+users
+might
+have
+in
+configuring
+the
+software. If you use Microsoft Office or Open Office, these are good
+examples to use for this exercise.
+19.6. Why have many large companies chosen ERP systems as the basis for their
+organizational information system? What problems may arise when
+deploying a large-scale ERP system in an organization?
+19.7. Identify six possible risks that can arise when systems are constructed using
+COTS. What steps can a company take to reduce these risks?
+19.8. Explain why adaptors are usually needed when systems are constructed by
+integrating COTS products. Suggest three practical problems that might
+arise in writing adaptor software to link two COTS application products.
+19.9. The reuse of software raises a number of copyright and intellectual property
+issues. If a customer pays a software contractor to develop a system, who
+has the right to reuse the developed code? Does the software contractor
+have the right to use that code as a basis for a generic component? What
+payment mechanisms might be used to reimburse providers of
+reusable components? Discuss these issues and other ethical issues
+associated with the reuse of software.
+
+
+20.1 What do you understand by ‘scalability ’? Discuss the differences between
+‘scaling up’ and ‘scaling out’ and explain when these different approaches
+to scalability may be used.
+20.2 Explain why distributed software systems are more complex than
+centralized software systems, where all of the system functionality is
+implemented on a single computer.
+20.3 Using an example of a remote procedure call, explain how middleware
+coordinates the interaction of computers in a distributed system.
+20.4 What is the fundamental difference between a fat-client and a thin-client
+approach to client–server systems architectures?
+20.5 You have been asked to design a secure system that requires strong
+authentication and authorization. The system must be designed so that
+communications between parts of the system cannot be intercepted and read
+by an attacker. Suggest the most appropriate client–server architecture for
+this system and, giving reasons for your answer, propose how functionality
+should be distributed between the client and the server systems.
+20.6 Your customer wants to develop a system for stock information where
+dealers can access information about companies and evaluate various
+investment scenarios using a simulation system. Each dealer uses this
+simulation in a different way, according to his or her experience and the
+type of stocks in question. Suggest client–server architecture for this system
+that shows where functionality is located. Justify the client–server system
+model that you have chosen.
+20.7 Using a distributed component approach, propose architecture for a national
+theater booking system. Users can check seat availability and book seats at
+a group of theaters. The system should support ticket returns so that people
+may return their tickets for last-minute resale to other customers.
+20.8 Give two advantages and two disadvantages of decentralized and
+semicentralized peer-to-peer architectures.
+20.9 Explain why deploying software as a service can reduce the IT support
+costs for a company. What additional costs might arise if this deployment
+model is used?
+20.10 Your company wishes to move from using desktop applications to
+accessing the same functionality remotely as services. Identify three risks
+that might arise and suggest how these risks may be reduced.
