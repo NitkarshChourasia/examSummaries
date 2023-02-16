@@ -1,3 +1,4 @@
+Chapter 1: Introduction to Computer Graphics :-
 1. Define computer graphics.
 2. List and explain any five applications of computer graphics.
 3. Write a short note on computer graphics software.
@@ -5,7 +6,7 @@
 5. Explain various graphics functions.
 6. List and explain any five input devices used in graphics.
 
-
+Chapter 2: Display Technologies :-
 1. Differentiate between raster scan and random scan displays.
 2. Explain the working of CRT.
 3. Explain the shadow mask technique.
@@ -14,30 +15,26 @@
 6. Differentiate between LCD and CRT.
 
 
-
+Chapter 3: Scan Conversion Line and Circle :-
 1. Explain the DDA line drawing algorithm.
 2. Explain the Bresenham’s line drawing algorithm with example.
 3. Given the endpoints of line XY as (2, 3) and (8, 9). Apply DDA line
    drawing algorithm on line XY and plot the pixels.
-434. Explain the midpoint circle algorithm.
+4. Explain the midpoint circle algorithm.
 5. Write the Bresenham’s circle algorithm.
 6. Write the algorithm for midpoint ellipse.
 7. Write a short note on aliasing.
 
 
 
-1.
-2.
-3.
-4.
-5.
+Chapter 4: Scan Conversion_LIne and Polygon Clipping :-
 1. Explain the Cohen-Sutherland line-clipping algorithm.
 2. Explain the process of point clipping.
 3. Write the algorithm for Sutherland-Hodgeman polygon clipping.
 4. Explain the process for Cyrus-Beck line-clipping algorithm.
 5. Write the algorithm for Liang-Barsky line-clipping algorithm.
 
-
+Chapter 5: Two Dimensional Transformation :-
 1. What is transformation? Explain its types.
 2. Explain 2D transformation in detail.
 3. Explain homogeneous coordinate system in detail.
@@ -49,7 +46,7 @@
 9. Explain reflection through an arbitrary line.
 10. Explain the concept of transformation of points.
 
-
+Chapter 6: Three Dimensional Transformation :-
 1. What is 3D transformation? Explain its types.
 2. Explain conventions 3D transformation in detail.
 3. Explain homogeneous coordinate system in 3D detail.
@@ -61,7 +58,7 @@
 9. Explain reflection through an arbitrary plane.
 10. Explain the concept of oblique projection in detail.
 
-
+Chapter 7: Viewing in 3D :-
 Q.1 Explain the concept of viewing in 3D.
 Q.2 Explain with neat labelled diagram stages in 3D Viewing Pipeline
 with diagram.
@@ -77,7 +74,7 @@ Q.9 Explain the concept of camera model and viewing pyramid with neat
 labelled diagram.
 
 
-
+Chapter 8: Light - Light, Radiometry, Transport, Equation, Photometry :-
 Q.1 Explain Radiometry in brief.
 Q.2 Explain the following terms:
 a) Radiant energy
@@ -93,12 +90,12 @@ Q.4 What is meant by radiance and irradiance?
 Q.5 Write a short note on rasterization.
 Q.6 Explain ray casting technique with diagram in detail.
 Q.7 How does ray tracing works? Explain in detail.
-141Q.8 Write a short note on radiosity.
+Q.8 Write a short note on radiosity.
 Q.9 Write a short note on Transport equation.
 Q.10 Explain the concept of photometry in detail.
 
 
-
+Chapter 9: Color_Colorimetry, Color Spaces, Chromatic Adaptation, Color Appearance :-
 Q.1 What is color?
 Q.2 Explain Colorimetry and its different applications in brief.
 Q.3 Explain Colorimetry Concepts in Display Test and Measurement.
@@ -111,7 +108,7 @@ d) HSL
 Q.6 Explain chromatic adaption in brief.
 Q.7 Explain Color appearance in brief.
 
-
+Chapter 10: Visible-Surface Determination and Plane Curves and Surfaces :-
 Q1. Explain Scan-Line Method.
 Q2. Write note on Area-Subdivision Method.
 Q3. Explain Binary Space Partition (BSP) Trees with example
@@ -124,6 +121,7 @@ Q10. Explain techniques for efficient Visible-Surface Algorithms.
 Q11. Explain Image Space Method.
 Q12. Write a Short Note on Object Space Method.
 
+Chapter 11: Plane Curves and Surface :-
 Q1. Explain Parametric Representation of a Circle.
 Q2. Explain Parametric Representation of an Ellipse.
 Q3. Explain Parametric Representation of a Parabola and Hyperbola
@@ -134,7 +132,7 @@ Q7. Explain Bezier Curves properties.
 Q9. Write a short note on Quadratic Surfaces.
 Q10. Explain Bezier Surfaces with example.
 
-
+Multiple Choice Questions: Chapter 11: Plane Curves and Surface :-
 1. In __________ method, visibility is decided point by point at each
 pixel position on the projection plane.
 a. Image-Space
@@ -165,7 +163,7 @@ a. Area-subdivision method
 b. Back-face
 c. Painter’s algorithm
 d. Z-buffer algorithm
-6. Which o the following method is not a image space method?
+6. Which of the following method is not a image space method?
 a. Back-face Detection
 b. Z Buffer Algorithm
 184c. Scan line algorithm
@@ -193,7 +191,7 @@ b. B-Spline
 c. Curved
 d. Parametric
 
-
+Chapter 12: Computer Animation :-
 1. Write a short not on key frame animation.
 2. Define computer animation. State and explain principles of animation.
 3. Explain the concept of deformation.
@@ -203,7 +201,7 @@ animation.
 6. Explain the concept of how to group the objects.
 
 
-
+Chapter 13: Image manipulation and storage :-
 1. Define Images. State and explain types of images.
 2. Write a short note on histogram equalization.
 3. Explain low pass averaging filter and low pass median filter.
