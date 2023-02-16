@@ -25,14 +25,10 @@ b) Variables
 c) Identifiers
 d) All of the above
 6)_____ is a sequence of one and more characters?
-a)
-Identifiers
-b)
-Keywords
-c)
-Variables
-d)
-Literals
+a) Identifiers
+b) Keywords
+c) Variables
+d) Literals
 
 
 
@@ -117,34 +113,22 @@ d) None of the above
 
 
 1. Which of these keywords is used to define packages in Java?
-a)
-pkg
-b)
-Pkg
-c)
-package
-d)
-Package
+a) pkg
+b) Pkg
+c) package
+d) Package
 2. Which of these is a mechanism for naming and visibility control of a
 class and its content?
-a)
-Object
-b)
-Packages
-c)
-Interfaces
-d)
-None of the Mentioned.
+a) Object
+b) Packages
+c) Interfaces
+d) None of the Mentioned.
 3. Which of these access specifiers can be used for a class so that its
 members can be accessed by a different class in the different package?
-a)
-Public
-b)
-Protected
-c)
-Private
-d)
-No Modifier
+a) Public
+b) Protected
+c) Private
+d) No Modifier
 1094. Which of the following is the correct way of importing an entire
 package ‘pkg’?
 a) import package.;
@@ -188,10 +172,10 @@ Q2. Write a program to catch more than two exceptions.
 Q3. Write a partial program to show the use of finally clause.
 Q4. Differentiate between checked and unchecked exceptions.
 Q5. Explain how you can throw an exception from a method in Java.
-Q6.Write a program to create your own exception subclass that throws
+Q6. Write a program to create your own exception subclass that throws
 exception if the sum of two integers is greater that 99.
-Q7.Draw and Explain Exception class Hirerchy in detail.
-Q8.Differentiate between throw and throws exceptions / Keywords.
+Q7. Draw and Explain Exception class Hirerchy in detail.
+Q8. Differentiate between throw and throws exceptions / Keywords.
 
 
 Q1. What is stream? Differentiate between stream source and stream
@@ -202,7 +186,7 @@ Q3. Write a program using File Reader and Print Writer classes for file
 handling.
 Q4. Which class may be used for reading from console?
 158Q5. Write a program to read the output of a file and display it on console.
-Q7.What is Java Stream Explain in with example.
+Q7. What is Java Stream Explain in with example.
 Q8. What is Serialization?
 Q9. Explain File Reader class With Example.
 Q10. Explain File Writer class With Example.
@@ -217,10 +201,10 @@ Q13. Explain Byte Array Output Stream class With Example.
 2.
 3.
 4.
-Explain Delegation Event Model in Java
-Explain keyadapter class defined in Java with code segment.
-Explain mouseadapter class defined in Java with code segment.
-Develop a frame that has three radio buttons Red, Green, Blue. On
+1. Explain Delegation Event Model in Java
+2. Explain keyadapter class defined in Java with code segment.
+3. Explain mouseadapter class defined in Java with code segment.
+4. Develop a frame that has three radio buttons Red, Green, Blue. On
 Click of any one of them background color of the frame should change
 accordingly.
 5. Explain the following interfaces:

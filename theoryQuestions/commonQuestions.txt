@@ -1,3 +1,12 @@
 1. Some common questions for _____ .
 2. Generate more questions based on the questions provided.
 3. Generate more questions of this level based on this _______ subject.
+
+
+- Questions for Java:-
+
+Some commonly asked questions of Java programming language.
+Some commonly asked questions of Java programming language in Interviews.
+Some commonly asked questions of Java programming language in Exam.
+Generate more questions on the type of questions provided.
+Generate more questions of this level based on Java programming language.

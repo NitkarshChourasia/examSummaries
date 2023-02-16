@@ -1,0 +1,212 @@
+1. Define computer graphics.
+2. List and explain any five applications of computer graphics.
+3. Write a short note on computer graphics software.
+4. Explain various graphics software standards.
+5. Explain various graphics functions.
+6. List and explain any five input devices used in graphics.
+
+
+1. Differentiate between raster scan and random scan displays.
+2. Explain the working of CRT.
+3. Explain the shadow mask technique.
+4. Explain the raster scan system.
+5. Explain random scan systems.
+6. Differentiate between LCD and CRT.
+
+
+
+1. Explain the DDA line drawing algorithm.
+2. Explain the Bresenham’s line drawing algorithm with example.
+3. Given the endpoints of line XY as (2, 3) and (8, 9). Apply DDA line
+   drawing algorithm on line XY and plot the pixels.
+434. Explain the midpoint circle algorithm.
+5. Write the Bresenham’s circle algorithm.
+6. Write the algorithm for midpoint ellipse.
+7. Write a short note on aliasing.
+
+
+
+1.
+2.
+3.
+4.
+5.
+1. Explain the Cohen-Sutherland line-clipping algorithm.
+2. Explain the process of point clipping.
+3. Write the algorithm for Sutherland-Hodgeman polygon clipping.
+4. Explain the process for Cyrus-Beck line-clipping algorithm.
+5. Write the algorithm for Liang-Barsky line-clipping algorithm.
+
+
+1. What is transformation? Explain its types.
+2. Explain 2D transformation in detail.
+3. Explain homogeneous coordinate system in detail.
+4. What is combined transformation? Explain in detail.
+5. How to convert an object from window to viewport?
+6. Write a short note on rotation about an arbitrary point.
+7. Explain in brief solid body transformation.
+8. Write a short note on unit square transformation.
+9. Explain reflection through an arbitrary line.
+10. Explain the concept of transformation of points.
+
+
+1. What is 3D transformation? Explain its types.
+2. Explain conventions 3D transformation in detail.
+3. Explain homogeneous coordinate system in 3D detail.
+4. What are multiple 3D transformations? Explain in detail.
+5. How many perspective vanishing points are there? How it works?
+6. Write a short note on rotation about an arbitrary axis.
+7. Explain in brief scaling in 3D.
+8. Write a short note on cavalier and cabinet projection.
+9. Explain reflection through an arbitrary plane.
+10. Explain the concept of oblique projection in detail.
+
+
+Q.1 Explain the concept of viewing in 3D.
+Q.2 Explain with neat labelled diagram stages in 3D Viewing Pipeline
+with diagram.
+Q.3 Explain Canonical View Volume (CVV) in brief.
+Q.4 Explain a procedure which specifies an arbitrary 3D view.
+Q.5 Explain the way in which the different examples in 3D viewing is
+generated.
+Q.6 Briefly explain the mathematics of planar geometry.
+Q.7 Explain combined transformation matrices for projections and
+viewing.
+Q.8 Explain different coordinate systems and matrices in detail.
+Q.9 Explain the concept of camera model and viewing pyramid with neat
+labelled diagram.
+
+
+
+Q.1 Explain Radiometry in brief.
+Q.2 Explain the following terms:
+a) Radiant energy
+b) Spectral Radiant energy
+c) Radiant Flux or Radiant power
+d) Spectral Radiant Flux or Radiant power
+e) Radiant Flux Density
+f) Irradiance radiant exitance
+g) Spectral Radiant Flux density
+h) Radiance
+Q.3 Explain units and uses of Radiometry.
+Q.4 What is meant by radiance and irradiance?
+Q.5 Write a short note on rasterization.
+Q.6 Explain ray casting technique with diagram in detail.
+Q.7 How does ray tracing works? Explain in detail.
+141Q.8 Write a short note on radiosity.
+Q.9 Write a short note on Transport equation.
+Q.10 Explain the concept of photometry in detail.
+
+
+
+Q.1 What is color?
+Q.2 Explain Colorimetry and its different applications in brief.
+Q.3 Explain Colorimetry Concepts in Display Test and Measurement.
+Q.4 What is meant by Colorspaces and Color Wheel?
+Q.5 Explain following color model with diagram:
+a) RGB
+b) CMY
+c) HSV
+d) HSL
+Q.6 Explain chromatic adaption in brief.
+Q.7 Explain Color appearance in brief.
+
+
+Q1. Explain Scan-Line Method.
+Q2. Write note on Area-Subdivision Method.
+Q3. Explain Binary Space Partition (BSP) Trees with example
+Q4. What is the concept of Back Face Culling? Explain.
+Q7. Explain Painters algorithm.
+Q8. Differentiate between Ray Casting and Ray Tracing.
+Q9. Describe the methods used for determination of visible surfaces in
+rendering.
+Q10. Explain techniques for efficient Visible-Surface Algorithms.
+Q11. Explain Image Space Method.
+Q12. Write a Short Note on Object Space Method.
+
+Q1. Explain Parametric Representation of a Circle.
+Q2. Explain Parametric Representation of an Ellipse.
+Q3. Explain Parametric Representation of a Parabola and Hyperbola
+Q4. Explain Bezier Curves and surfaces.
+Q5. Define Curve. What are its types? Explain in brief.
+Q6. What are the properties of Bezier Curves? Explain.
+Q7. Explain Bezier Curves properties.
+Q9. Write a short note on Quadratic Surfaces.
+Q10. Explain Bezier Surfaces with example.
+
+
+1. In __________ method, visibility is decided point by point at each
+pixel position on the projection plane.
+a. Image-Space
+b. Object-Space
+c. Polygon Clipping
+d. Coherence
+2. Z-buffer algorithm is used for ___________.
+a. Frame buffer removal
+b. Hidden line removal
+c. Rendering
+d. Animation
+3. ______________ is fast and effective as an initial screening to
+eliminate many polygons from further visibility tests.
+a. Back-face detection
+b. Painter’s algorithm
+c. Z-buffer algorithm
+d. Area Sub-division algorithm
+4. The _________ is particularly useful when the view reference point
+changes, but the objects in a scene are at fixed positions.
+a. BSP Tree
+b. Back-face
+c. Painter’s algorithm
+d. Z-buffer algorithm
+5. ______ method successively divides the total viewing area into
+smaller and smaller rectangles until each small area is the projection
+of part of a single visible surface or no surface at all.
+a. Area-subdivision method
+b. Back-face
+c. Painter’s algorithm
+d. Z-buffer algorithm
+6. Which o the following method is not a image space method?
+a. Back-face Detection
+b. Z Buffer Algorithm
+184c. Scan line algorithm
+d. Ray Tracing
+7. Most visible-surface detection algorithms use sorting and __________
+methods to improve performance.
+a. Coherence
+b. Object-Space
+c. Polygon Clipping
+d. Dept information
+8. Visible Surface Detection Method is also called as _____________.
+a. Hidden-Surface elimination method
+b. Hidden- Surface Identification Method
+c. Hidden-Surface Detection Method
+d. VSD
+9. Z-buffer algorithm uses 2 buffer, depth buffer for storing depth values
+and _________ buffer stores intensity values at each pixel position.
+a. Refresh
+b. Intensity
+c. Color
+d. Depth
+10. ________ curves must precisely have n control points.
+a. Bezier
+b. B-Spline
+c. Curved
+d. Parametric
+
+
+1. Write a short not on key frame animation.
+2. Define computer animation. State and explain principles of animation.
+3. Explain the concept of deformation.
+4. State and explain procedural techniques in animation.
+5. Write a short note on character animation and physics based
+animation.
+6. Explain the concept of how to group the objects.
+
+
+
+1. Define Images. State and explain types of images.
+2. Write a short note on histogram equalization.
+3. Explain low pass averaging filter and low pass median filter.
+4. Write a short note on image enhancement.
+5. List and explain image file formats.
+6. Explain image compression jpeg standards.
