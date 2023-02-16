@@ -1,3 +1,4 @@
+Chapter 1: Introduction to Java Programming :-
 1) Which component is used to compile, debug and execute java program?
 a) JVM
 b) JRE
@@ -31,7 +32,7 @@ c) Variables
 d) Literals
 
 
-
+Chapter 2: Data Types :-
 1) How many primitive types are there in java?
 a) 5
 b) 6
@@ -83,7 +84,7 @@ b) Unsigned
 c) Both of the above
 d) None of the above
 
-
+Chapter 3: Control Statements :-
 1) What mean by Decision control statement?
 2) Explain If Else statement with suitable example.
 3) Explain Nested if statement with suitable example.
@@ -91,12 +92,13 @@ d) None of the above
 5) What is mean by switch control statement with example.
 6) Explain loop control statement with example.
 
-
+Chapter 4: Classes :-
 1. Explain class in detail with suitable example.
 2. Explain Methods with a Return Type with suitable example.
 3. What is method overloading explain with suitable example.
 4. Write a short note on abstract class.
 
+Chapter 5: Constructors :-
 1. Write a short note on constructor.
 2. Explain default contractors with suitable Example.
 3. Explain Parameterized constructor with suitable example.
@@ -104,6 +106,7 @@ d) None of the above
 5. write a short note on garbage collection
 
 
+Chapter 6: Inheritance :-
 1) Explain the term used in Inheritance.
 2) What are the types of Inheritance?
 3) Explain multiple inheritances with satiable example.
@@ -111,7 +114,7 @@ d) None of the above
 5) Write a short note on abstract class.
 6) Write a Difference between abstract class and interface.
 
-
+Chapter 7: Packages :-
 1. Which of these keywords is used to define packages in Java?
 a) pkg
 b) Pkg
@@ -129,7 +132,7 @@ a) Public
 b) Protected
 c) Private
 d) No Modifier
-1094. Which of the following is the correct way of importing an entire
+4. Which of the following is the correct way of importing an entire
 package ‘pkg’?
 a) import package.;
 b) Import package;
@@ -147,7 +150,7 @@ b) Constants
 c) Methods
 d) None of the above
 
-
+Chapter 8: Enumerations, Arrays :-
 Q1. What is the need of Array ? Explain
 Q2. What is Array ? Explain with Example.
 Q3. What is Array ? what are the Types of Array ?
@@ -156,7 +159,7 @@ Q5. What is vector ? Explain with Example.
 Q6. Explain various methods vectors.
 Q7. What is the difference between Array and Vector ?
 
-
+Chapter 9: Multithreading :-
 Q1. How does multithreading take place on a computer with a single
 CPU?
 Q2. State the advantages of multithreading.
@@ -165,7 +168,7 @@ Q4. Explain Lifecycle of Thread.
 Q5. Explain the need of synchronized method
 Q6. List And Explain Various Methods of Thread
 
-
+Chapter 10: Exceptions :-
 Q1. What is an exception? Write any three actions that can be taken after
 an exception occurs in a program.
 Q2. Write a program to catch more than two exceptions.
@@ -177,7 +180,7 @@ exception if the sum of two integers is greater that 99.
 Q7. Draw and Explain Exception class Hirerchy in detail.
 Q8. Differentiate between throw and throws exceptions / Keywords.
 
-
+Chapter 11: Byte Streams :-
 Q1. What is stream? Differentiate between stream source and stream
 destination.
 Q2. Write a program for I/O operation using Buffered Input Stream and
@@ -196,11 +199,7 @@ Q13. Explain Char Array Writer class With Example.
 Q12. Explain Byte Array Input Stream class With Example.
 Q13. Explain Byte Array Output Stream class With Example.
 
-
-1.
-2.
-3.
-4.
+Chapter 12: Event Handling :-
 1. Explain Delegation Event Model in Java
 2. Explain keyadapter class defined in Java with code segment.
 3. Explain mouseadapter class defined in Java with code segment.
@@ -218,7 +217,7 @@ adapter classes defined in Java.
 11. Describe Components of Event Handling.
 12. Explain steps to handle an event in java.
 
-
+Chapter 13: Abstract Window Toolkit :-
 1. Define Component, Panel, Canvas, Window and Frame.
 2. Write a short note on checkbox and checkbox group class.
 3. List various layouts in AWT and Explain Border Layout with
@@ -246,12 +245,11 @@ cube, a Label and a Text Field. Click of the button should display cube
 of that number in the Label.
 15. Explain Choice class along with constructors in detail.
 
-
+Chapter 14: Layouts :-
 1. Write a program to display a content using Flow Layout.
 2. What is the role of layout manager? What is the default layout of
 Frame? Explain its working.
 3. Write a program to display a registration page using Grid Layout.
 4. Write a program to display a home page using Border Layout.
 5. Write a program to display a about page using Card Layout.
-
 
