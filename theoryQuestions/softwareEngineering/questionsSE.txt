@@ -1,17 +1,18 @@
+Chapter 1:An Introduction :-
 1. Clarify why proficient programming isn't only the projects that are created
 for a client.
 2. Why we need software engineering?
 3. What is software engineering? Explain in brief.
 4. Explain Software development Life Cycle.
 
-
+Chapter 2:Software Requirements :-
 1. Write a set of functional and non-functional specifications for the banking
 system, setting out its expected reliability and response time.
 2. With an example write the customer requirements of ATM machine
 3. Write a short note the significance of SRS.
 4. List the advantages of SRS.
 
-
+Chapter 3: Software Process :-
 1) What is a project?
 2) What is a process?
 3) What is the difference between project and process?
@@ -25,7 +26,7 @@ system, setting out its expected reliability and response time.
 11) What is the difference between verification and validation?
 
 
-
+Chapter 4: Software Development Process Models :-
 1) Explain Waterfall model.List its advantages and disadvantages.
 2) What is the RAD model?
 3) Explain different types of prototyping models.
@@ -40,7 +41,7 @@ system, setting out its expected reliability and response time.
 model used?
 12) What are the principles and practices in the RUP model?
 
-
+Chapter 5: Agile Software Development :-
 1) What is agile software development methodology?
 2) When to use a plan driven approach and agile approach?
 3) What is Extreme Programming?
@@ -54,12 +55,14 @@ to consider while striking a balance between plan driven and agile approach?
 9) What are the limitations of agile methods?
 10) What are the benefits of scrum methodology?
 
+Chapter 6: Socio-Technical System :-
 Q1 Explain what is socio-technical system?
-Q2 Describe the emergent properties of socio-technical system>
+Q2 Describe the emergent properties of socio-technical system?
 Q3 Illustrate the System engineering process along with-it types?
 Q4 Describe about the need of Organizational process in socio-technical system?
 Q5 Describe in short about Legacy Systems?
 
+Chapter 7: Critical Systems :-
 Q1 Explain the four dimensions of Dependability?
 Q2 What is Safety Critical Systems?
 Q3 What are the three principal types of critical system? Explain the differences
@@ -71,12 +74,14 @@ by an ISP with thousands of customers • A computer-controlled scalpel used in
 keyhole surgery • A directional control system used in a satellite launch vehicle •
 An Internet-based personal finance management system.
 
+Chapter 8: Requirement Engineering Process :-
 1. What are the underlying principles that guide analysis work?
 2. Explain Analysis Concept and Principles with neat diagram.
 3. What is requirement Management? Explain.
 4. Explain Requirements Validation Technique
 5. What are different Principal stages to a change management process?
 
+Chapter 9: System Models :-
 1. What are the advantages of Architectural Design? Which factors are
 dependable during the design?
 2. What is the design perspective of architectural design? Explain.
@@ -85,6 +90,7 @@ in brief.
 4. Explain use case diagram with neat diagram.
 5. Write a short note on object model.
 
+Chapter 10: Architectural Design :-
 1. What are the advantages of Architectural Design? Which factors are
 dependable during the design?
 2. What are the three system organization styles of architectural design? Explain
@@ -94,8 +100,9 @@ in brief.
 in brief.
 5. Explain Object oriented decomposition.
 
+Chapter 11: User Interface Design - Rapid Software Development :-
 1. Why do we need UI design?
-2. Explain the design issues
+2. Explain the design issues?
 3. What is the design process?
 4. Write a short note on:
 a)User Analysis
@@ -104,18 +111,21 @@ c)Testing in XP
 d)Interface Evaluation
 5. What is Software Prototyping?
 
+Chapter 12: Project Management :-
 1. Take a Real- time Project and prepare the chart of Management activities
 related with the software Project.
 2. Take a Real- time Project and list out the stages of software Project.
 3. Take a Real- time Project and write up the Scheduling for the Project.
 4. Take a Real- time Project prepare the Risk factors of the Software Project.
 
+Chapter 13: Quality Management :-
 1. Explain the process of Software Quality Management
 2. Explain quality assurance and standards
 3. Explain how product quality can be planned
 4. Explain what is software metric and measurement?
 5. What are the key component measurement process?
 
+Chapter 14: Verification and Validation :-
 1. Explain the differences between verification and validation, and explain why
 validation is a particularly difficult process.
 2. Explain why program inspections are an effective technique for discovering
@@ -129,6 +139,8 @@ development of safety critical software systems.
 6. Why do you think that some developers of this type of system are against the
 use of formal methods?
 
+Chapter 15: Software measurement :- (Exercise missing in the book)
+Chapter 16: Software Cost Estimation :-
 1. What is the objective of software cost estimation?
 2. What are the main costs of a software development project?
 3. How programmer productivity can be measured by function points?
@@ -137,12 +149,14 @@ use of formal methods?
 metric of software?
 6. Explain the expression of algorithmic cost modelling?
 
+Chapter 17: Process Improvement :-
 1. Write a note on ISO 9000 quality standards.
 2. Explain process improvement cycle.
 3. Explain CMMI framework.
 4. Explain Software as service.
 5. Explain service engineering with neat diagram.
 
+Chapter 18: Service Oriented Software Enginering :-
 18.1. What are the most important distinctions between services and software
 components?
 18.2. Explain why SOAs should be based on standards.
@@ -151,9 +165,7 @@ credit rating services.
 18.4. Design possible input and output messages for the services and specify
 these in the UML or in XML.
 18.5. Giving reasons for your answer, suggest two important types of applications
-where
-you
-would not recommend the use of service-oriented architecture.
+where you would not recommend the use of service-oriented architecture.
 18.6. Using BPMN, design a workflow that uses the catalog service to look up
 and place orders for computer equipment.
 18.7. Explain what is meant by a ‘compensation action’ and, using an example,
@@ -161,13 +173,11 @@ show why these actions may have to be included in workflows.
 18.8. For the example of the vacation package reservation service, design a
 workflow that will book ground transportation for a group of passengers
 arriving at an airport. They should be given the option of booking either a
-taxi or renting a car. You may assume that the taxi and
-car rental companies offer web services to make a reservation.
-18.9. Using an example, explain in detail why the thorough testing of services
-that include compensation actions is difficult.
+taxi or renting a car. You may assume that the taxi and car rental companies offer web services to make a reservation.
+18.9. Using an example, explain in detail why the thorough testing of services that include compensation actions is difficult.
 
 
-
+Chapter 19: Software Reuse :-
 19.1. What are the major technical and nontechnical factors that hinder software
 reuse? Do you personally reuse much software and, if not, why not?
 19.2. Suggest why the savings in cost from reusing existing software are not
@@ -181,14 +191,7 @@ framework.
 19.5. Most desktop software, such as word processing software, can be
 configured in a number of different ways. Examine software that you
 regularly use and list the configuration options for that software. Suggest
-difficulties
-that
-users
-might
-have
-in
-configuring
-the
+difficulties that users might have in configuring the
 software. If you use Microsoft Office or Open Office, these are good
 examples to use for this exercise.
 19.6. Why have many large companies chosen ERP systems as the basis for their
@@ -208,6 +211,7 @@ reusable components? Discuss these issues and other ethical issues
 associated with the reuse of software.
 
 
+Chapter 20: Distributed Software Engineering :-
 20.1 What do you understand by ‘scalability ’? Discuss the differences between
 ‘scaling up’ and ‘scaling out’ and explain when these different approaches
 to scalability may be used.
