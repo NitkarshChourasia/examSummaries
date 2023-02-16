@@ -1,10 +1,11 @@
+Chapter 1: Embedded System: An Introduction :-
 1. Define Embedded System with the help of Microwave Owen as an example.
 2. Differentiate between general purpose computers and embedded systems.
 3. Give a classification of embedded systems.
 4. List some applications of embedded systems.
 5. Explain the various possible purposes of using and embedded system.
 
-
+Chapter 2: Core of Embedded System :-
 1. Differentiate between RISC and CISC
 2. Differentiate between Microprocessor and Microcontroller
 3. Explain Big Endian and Little Endian
@@ -16,50 +17,49 @@
 9. Explain Bluetooth and WIFI
 10. Explain RS 232 C
 
-
+Chapter 3: Characteristics & Quality Attributes of Embedded Systems :-
 3.4.1 Explain the characteristics of an embedded system.
 3.4.2 Explain the operational quality attributes of an embedded system.
 3.4.3 Explain the non-quality attributes of an embedded system.
 
-
+Chapter 4: Embedded Systems-Application and Domain Specific :-
 1. What is an embedded system? What are the working elements of an
 embedded system?
 2. Explain the working of embedded system with respect to:
-3.
 A. Washing Machine
 B. MICROWAVE Owen
-Conduct case studies for working of embedded systems for the following
+3. Conduct case studies for working of embedded systems for the following
 topics:
 A. Air Conditioner
 B. Automobile
 
-
+Chapter 5: Embedded Hardware :-
 1. Explain the Components involved in a printer sharing device
 2. Explain Memory Map for a printer sharing device
 3. Explain I/O Map for a printer sharing device
 4. Explain interrupt Map for a printer sharing device
 
-
+Chapter 6A: Embedded Systems: Memory :-
 1. What are the different types of Memory?
 2. What are the different types of RAM?
 3. What are the different types of ROM?
 4. What are the different types of Hybrid Memory?
 
-
+Chapter 6B: Embedded Systems: Memory Testing :-
 1. What is Memory Testing? Why is it required?
 2. What are common memory problems in embedded system?
 3. Describe a test strategy for performing memory testing on embedded system.
 Is there a specific order to perform these tests? if yes, why?
 4. Describe the different types of memory testing techniques available.
 
-
+Chapter 7: Embedded Systems: Peripherals :-
 1. Explain testing for non-volatile memory devices
 2. Write short note on Control and status registers
 3. What is a device driver?
 4. What are the components of a device driver?
 5. Write short note on Watch Dog Timer
 
-
+Chapter 8: The 8051 Microcontrollers :-
 1) Give Overview of 8051 family
 2) What are the requirements of 8051 Microcontroller Hardware?
 3) Explain Microcontroller & Embedded processors.
@@ -69,7 +69,7 @@ Is there a specific order to perform these tests? if yes, why?
 7) Differentiate Microprocessor & Microcontroller
 8) Give Applications of 8051
 
-
+Chapter 9: C-Language :-
 Q1) Give Basics of Embedded C Program
 Q2) Differentiate C & Embedded C language
 Q3) Give Advantages of Embedded C
@@ -80,7 +80,7 @@ Q7) Give the Importance of Logic Operations & Their Use
 Q8) Explain Data Types & Time Delay uses in 8051?
 
 
-
+Chapter 10: Designing Embedded System with 8051 Microcontroller :-
 1. Explain the function of PORT 0 and PORT 3
 2. Explain TMOD and TCON
 3. Explain data memory interfacing.
@@ -90,7 +90,7 @@ microcontroller.
 6. Explain interfacing external data memory access
 
 
-
+Chapter 11: Programming Embedded System :-
 1. Explain structure of embedded program with suitable example.
 2. Why infinite loop is preferred in embedded system? Give example.
 3. Explain Software Debugging
@@ -100,7 +100,7 @@ microcontroller.
 7. Explain locator.
 8. What is compiler?
 
-
+Chapter 12: Real Time Operating System :-
 1. Explain the embedded Operating system with respect to
 i) Tasks
 ii) Task States
@@ -118,7 +118,7 @@ iii) Context Switch
 9. Write note on Simulator & Emulator
 10. Explain the phases of EDLC.
 
-
+Chapter 13: Embedded Systems: Integrated Development Environment :-
 1. Write a Short note on Embedded IDE
 2. What is Cross- Compilation? List the files that are generated upon cross
 compilation
@@ -129,15 +129,15 @@ I..OBJ File
 II. .HEX File
 III. Preprocessor Output File
 
+Chapter 14: Embedded Development Life Cycle :-
 1. What is EDLC? Why is it needed? What are its objectives?
 2. Draw an neat labeled diagram of the phases of the EDLC and explain any
 two phases in detail.
 
-
+Chapter 15: Trends in embedded systems :-
 1. Write a short note on Processor Trends in Embedded Systems
 2. Explain the Embedded Operating System Trends
 3. Write Short notes on Embedded Development Language Trends
 4. Explain Open Standards, Frameworks and alliances
 5. Write short note on Bottlenecks faced by Embedded Industry
-
 
