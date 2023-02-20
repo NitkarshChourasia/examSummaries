@@ -1,0 +1,291 @@
+In the context of Embedded System: An Introduction, Define Embedded System with the help of Microwave Owen as an example
+
+In the context of Embedded System: An Introduction, Differentiate between general purpose computers and embedded systems
+
+In the context of Embedded System: An Introduction, Give a classification of embedded systems
+
+In the context of Embedded System: An Introduction, List some applications of embedded systems
+
+In the context of Embedded System: An Introduction, Explain the various possible purposes of using an embedded system
+
+In the context of Core of Embedded System, Differentiate between RISC and CISC
+
+In the context of Core of Embedded System, Differentiate between Microprocessor and Microcontroller
+
+In the context of Core of Embedded System, Explain Big Endian and Little Endian
+
+In the context of Core of Embedded System, Explain ASIC in details
+
+In the context of Core of Embedded System, Explain PLD
+
+In the context of Core of Embedded System, Explain sensors and actuators
+
+In the context of Core of Embedded System, Explain I2C BUS and SPI BUS
+
+In the context of Core of Embedded System, Explain the function of watchdog timer in details
+
+In the context of Core of Embedded System, Explain Bluetooth and WIFI
+
+In the context of Core of Embedded System, Explain RS 232 C
+
+In the context of Characteristics & Quality Attributes of Embedded Systems, Explain the characteristics of an embedded system
+
+In the context of Characteristics & Quality Attributes of Embedded Systems, Explain the operational quality attributes of an embedded system
+
+In the context of Characteristics & Quality Attributes of Embedded Systems, Explain the non-quality attributes of an embedded system
+
+In the context of Embedded Systems-Application and Domain Specific, What is an embedded system? What are the working elements of an embedded system?
+
+In the context of Embedded Systems-Application and Domain Specific, Explain the working of embedded system with respect to Washing Machine
+
+In the context of Embedded Systems-Application and Domain Specific, Explain the working of embedded system with respect to MICROWAVE Owen
+
+In the context of Embedded Systems-Application and Domain Specific, Conduct case studies for working of embedded systems for Air Conditioner
+
+In the context of Embedded Systems-Application and Domain Specific, Conduct case studies for working of embedded systems for Automobile
+
+In the context of Embedded Hardware, Explain the Components involved in a printer sharing device
+
+In the context of Embedded Hardware, Explain Memory Map for a printer sharing device
+
+In the context of Embedded Hardware, Explain I/O Map for a printer sharing device
+
+In the context of Embedded Hardware, Explain interrupt Map for a printer sharing device
+
+In the context of Embedded Systems: Memory, What are the different types of Memory?
+
+In the context of Embedded Systems: Memory, What are the different types of RAM?
+
+In the context of Embedded Systems: Memory, What are the different types of ROM?
+
+In the context of Embedded Systems: Memory, What are the different types of Hybrid Memory?
+
+In the context of Embedded Systems: Memory Testing, What is Memory Testing? Why is it required?
+
+In the context of Embedded Systems: Memory Testing, What are common memory problems in embedded system?
+
+In the context of Embedded Systems: Memory Testing, Describe a test strategy for performing memory testing on embedded system. Is there a specific order to perform these tests? if yes, why?
+
+In the context of Embedded Systems: Memory Testing, Describe the different types of memory testing techniques available.
+
+In the context of Embedded Systems: Peripherals, Explain testing for non-volatile memory devices
+
+In the context of Embedded Systems: Peripherals, Write short note on Control and status registers
+
+In the context of Embedded Systems: Peripherals, What is a device driver?
+
+In the context of Embedded Systems: Peripherals, What are the components of a device driver?
+
+
+ 
+In the context of Embedded Systems: Peripherals, Write short note on Watch Dog Timer
+
+
+ 
+
+In the context of The 8051 Microcontrollers, Give Overview of 8051 family
+
+
+ 
+In the context of The 8051 Microcontrollers, What are the requirements of 8051 Microcontroller Hardware?
+
+
+ 
+In the context of The 8051 Microcontrollers, Explain Microcontroller & Embedded processors.
+
+
+ 
+In the context of The 8051 Microcontrollers, Draw Block diagram of 8051 with important I/O Pins
+
+
+ 
+In the context of The 8051 Microcontrollers, How we interface External Memory to 8051
+
+
+ 
+In the context of The 8051 Microcontrollers, Give Ports & circuits of 8051.
+
+
+ 
+In the context of The 8051 Microcontrollers, Differentiate Microprocessor & Microcontroller
+
+
+ 
+In the context of The 8051 Microcontrollers, Give Applications of 8051
+
+
+ 
+
+In the context of C-Language, Give Basics of Embedded C Program
+
+
+ 
+In the context of C-Language, Differentiate C & Embedded C language
+
+
+ 
+In the context of C-Language, Give Advantages of Embedded C
+
+
+ 
+In the context of C-Language, Explain Keywords used in Embedded C?
+
+
+ 
+In the context of C-Language, What do you mean by I/O Programming?
+
+
+ 
+In the context of C-Language, Write a C Program to Blink LED connected to Port 1 of 8051.
+
+
+ 
+In the context of C-Language, Give the Importance of Logic Operations & Their Use
+
+
+ 
+In the context of C-Language, Explain Data Types & Time Delay uses in 8051?
+
+
+ 
+
+In the context of Designing Embedded System with 8051 Microcontroller, Explain the function of PORT 0 and PORT 3
+
+
+ 
+In the context of Designing Embedded System with 8051 Microcontroller, Explain TMOD and TCON
+
+
+ 
+In the context of Designing Embedded System with 8051 Microcontroller, Explain data memory interfacing.
+
+
+ 
+In the context of Designing Embedded System with 8051 Microcontroller, List and explain factors that need to be consider while selecting microcontroller.
+
+
+ 
+In the context of Designing Embedded System with 8051 Microcontroller, Explain interfacing external data memory access.
+
+
+ In the context of Programming Embedded System, Explain structure of embedded program with suitable example.
+
+
+ 
+In the context of Programming Embedded System, Why infinite loop is preferred in embedded system? Give example.
+
+
+ 
+In the context of Programming Embedded System, Explain Software Debugging
+
+
+ 
+In the context of Programming Embedded System, What is hardware debugging? Explain any 2 in detail.
+
+
+ 
+In the context of Programming Embedded System, What is Inline break point?
+
+
+ 
+In the context of Programming Embedded System, Explain Linker.
+
+
+ 
+In the context of Programming Embedded System, Explain locator.
+
+
+ 
+In the context of Programming Embedded System, What is compiler?
+
+
+ 
+
+In the context of Real Time Operating System, Explain the embedded Operating system with respect to i) Tasks ii) Task States iii) Idle task
+
+
+ 
+In the context of Real Time Operating System, State & explain The Kernal in OS.
+
+
+ 
+In the context of Real Time Operating System, Explain the RTOS
+
+
+ 
+In the context of Real Time Operating System, Explain Scheduler useful in OS with respect to: i) Scheduling Points ii) Ready List iii) Context Switch
+
+
+ 
+In the context of Real Time Operating System, Write a short note on Trends in Embedded industry.
+
+
+ 
+In the context of Real Time Operating System, Give the Real Time Characteristic of embedded operating system.
+
+
+ 
+In the context of Real Time Operating System, What is the process behind selection of RTOS.
+
+
+ 
+In the context of Real Time Operating System, Write note on Embedded system Development Environment – IDE.
+
+
+ 
+In the context of Real Time Operating System, Write note on Simulator & Emulator
+
+
+ 
+In the context of Real Time Operating System, Explain the phases of EDLC.
+
+
+ 
+
+In the context of Embedded Systems: Integrated Development Environment, Write a Short note on Embedded IDE
+
+
+ 
+In the context of Embedded Systems: Integrated Development Environment, What is Cross- Compilation? List the files that are generated upon cross compilation
+
+
+ 
+In the context of Embedded Systems: Integrated Development Environment, Explain the contents of .MAP file.
+
+
+ 
+In the context of Embedded Systems: Integrated Development Environment, Explain the contents of .LST file.
+
+
+ 
+In the context of Embedded Systems: Integrated Development Environment, Write short notes on : I..OBJ File II. .HEX File III. Preprocessor Output File
+
+
+ 
+
+In the context of Embedded Development Life Cycle, What is EDLC? Why is it needed? What are its objectives?
+
+
+ 
+In the context of Embedded Development Life Cycle, Draw a neat labeled diagram of the phases of the EDLC and explain any two phases in detail.
+
+
+ 
+
+In the context of Trends in embedded systems, Write a short note on Processor Trends in Embedded Systems
+
+
+ 
+In the context of Trends in embedded systems, Explain the Embedded Operating System Trends
+
+
+ 
+In the context of Trends in embedded systems, Write Short notes on Embedded Development Language Trends
+
+
+ 
+In the context of Trends in embedded systems, Explain Open Standards, Frameworks and alliances
+
+
+ 
+In the context of Trends in embedded systems, Write short note on Bottlenecks faced by Embedded Industry
