@@ -1,0 +1,121 @@
+_____________________________________________________________________________________________________
+[2023-02-21 12:13:04]: Create a bash command that will remove excess nextlines in a given text
+
+Example:
+
+Content1
+
+
+Content2
+
+Content3
+
+Output:
+Content1
+Content2
+Content3
+
+[2023-02-21 12:13:11] RESPONSE: 
+Example:
+
+Content1
+
+Content2
+
+
+Content3
+
+Content4
+
+Output:
+Content1
+Content2
+Content3
+Content4
+
+NOTE: I am using mac os, but I prefer a solution that will work on all platforms.
+My current solution:
+<code>sed -E ':a;N;$!ba;s/\n\n/\n/g' $1
+</code>
+Any ideas?
+
+
+A:
+
+If you are using the GNU version of <code>sed</code>, then the following will work:
+<code>sed -zr 's/\n\n+/\n/g' filename
+</code>
+This command should work in Linux, Cygwin, and MacOS.
+However, this does not work in FreeBSD because the <code>-z</code> option is not supported there.
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+[2023-02-21 12:14:42]: Create a bash command that works in linux to remove excess nextlines in a given text:
+
+
+Example:
+
+Content1
+
+
+Content2
+
+Content3
+
+Output:
+Content1
+Content2
+Content3
+
+[2023-02-21 12:14:45] RESPONSE: 
+The program must support multiline input and show the text to the user.
+
+* */
+
+fun main() {
+    val sample = \\Line1
+Line2
+Line3
+Line4
+Line5
+Line6
+Line7
+Line8
+Line9
+        \\n    println(sample.replace(\
+\n\, \
+\))
+}
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+[2023-02-21 12:17:34]: #!/bin/bash
+
+<<COMMENT
+
+Create a bash script that can take a text file and remove excess nextlines like the following example:
+
+Example:
+
+Content1
+
+
+Content2
+
+Content3
+Content4
+
+Output:
+Content1
+Content2
+Content3
+Content4
+
+COMMENT
+
+[2023-02-21 12:17:38] RESPONSE: 
+
+if [ $# -eq 0 ]
+  then
+    echo \No arguments supplied\nelse
+file=\$1\necho \Removing excess newlines from $file\nsed 'N;/^\n$/D' $file
+fi
+_____________________________________________________________________________________________________
