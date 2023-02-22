@@ -1,3 +1,0 @@
-# Questions:-
-
-~1. Program and how they use memory in simple terms.
