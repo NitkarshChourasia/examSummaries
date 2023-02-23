@@ -1,0 +1,212 @@
+Question: Explain the applications of the following measures of dispersions with 2 examples:
+Range
+Semi-Interquartile Range
+Mean Deviation
+10-90 Percentile Range
+Standard Deviation
+Variance
+Chariler's Check
+Sheppard's Correction for Variance
+Absolute and Relative Dispersion
+Coefficient of Variation
+Standardized Variable and Standard Scores
+
+Solution: 
+
+Range: Range is the difference between the highest and lowest values in a set of data. 
+Example 1: The range of temperatures in a city over the course of a year is -10°C to 35°C. 
+Example 2: The range of scores on a test is 0-100. 
+
+Semi-Interquartile Range: Semi-interquartile range is the difference between the first and third quartiles. 
+Example 1: The semi-interquartile range of a set of exam scores is 20. 
+Example 2: The semi-interquartile range of a set of stock prices is $50. 
+
+Mean Deviation: Mean deviation is the average of the absolute deviations from the mean. 
+Example 1: The mean deviation of a set of exam scores is 5. 
+Example 2: The mean deviation of a set of stock prices is $10. 
+
+10-90 Percentile Range: 10-90 percentile range is the difference between the 10th and 90th percentiles in a set of data. 
+Example 1: The 10-90 percentile range of a set of exam scores is 30. 
+Example 2: The 10-90 percentile range of a set of stock prices is $100. 
+
+Standard Deviation: Standard deviation is a measure of how spread out data points are from the mean. 
+Example 1: The standard deviation of a set of exam scores is 5. 
+Example 2: The standard deviation of a set of stock prices is $20. 
+
+Variance: Variance is a measure of how much variation there is in a set of data points from the mean. 
+Example 1: The variance of a set of exam scores is 25. 
+Example 2: The variance of a set of stock prices is $400. 
+
+Chariler's Check: Chariler's check is used to identify outliers in a dataset by comparing each data point to its nearest neighbors. 
+Example 1: Chariler's check identifies an outlier in a set of exam scores that is significantly higher than its nearest neighbors. 
+Example 2: Chariler's check identifies an outlier in a set of stock prices that is significantly lower than its nearest neighbors. 
+
+Sheppard's Correction for Variance: Sheppard's correction for variance adjusts for outliers by reducing their influence on the variance calculation. 
+Example 1: Sheppard's correction for variance reduces the influence of an outlier in a set of exam scores on the variance calculation. 
+Example 2: Sheppard's correction for variance reduces the influence of an outlier in a set of stock prices on the variance calculation. 
+
+Absolute and Relative Dispersion: Absolute and relative dispersion measure how spread out data points are from each other and from the mean, respectively. 
+Example 1: The absolute dispersion for a set of exam scores is 5, while the relative dispersion is 0.2. 
+Example 2: The absolute dispersion for a set of stock prices is $20, while the relative dispersion is 0.1. 
+
+Coefficient of Variation: Coefficient of variation measures how much variation there is in relation to the mean, expressed as a percentage or ratio. 
+Example 1: The coefficient of variation for a set of exam scores is 20%. 
+Example 2: The coefficient of variation for a set of stock prices is 10%. 
+
+Standardized Variable and Standard Scores: Standardized variables and standard scores are used to compare different sets or groups by expressing them on the same scale or metric.  
+Example 1: A standardized variable for exam scores expresses them on an 0-100 scale, while standard scores express them on an A-F scale.  
+Example 2: A standardized variable for stock prices expresses them on an 0-100 scale, while standard scores express them on an A-F scale.
+
+
+Question: What is the purpose of finding how spread out of group of number is in Statistics, Explain as if I am a 18 year with 3 examples.
+
+Solution: 
+
+The purpose of finding how spread out a group of numbers is in Statistics is to measure the variability of the data. This is important because it helps us understand how much the data points differ from each other and how much they vary from the average. 
+
+For example, let's say you have a group of numbers that represent the heights of 10 people. If all 10 people are the same height, then the data points are not very spread out and the variability is low. On the other hand, if the heights range from 5 feet to 6 feet 8 inches, then the data points are more spread out and the variability is higher. 
+
+Another example would be if you had a group of numbers that represent the grades of 10 students on a test. If all 10 students got the same grade, then the data points are not very spread out and the variability is low. On the other hand, if the grades range from 0 to 100, then the data points are more spread out and the variability is higher. 
+
+Finally, let's say you have a group of numbers that represent the ages of 10 people. If all 10 people are the same age, then the data points are not very spread out and the variability is low. On the other hand, if the ages range from 18 to 80, then the data points are more spread out and the variability is higher.
+
+
+Question: Give 10 interesting real life applications of statistical methods that have an impact on society.
+
+Solution: 
+
+1. Healthcare: Statistical methods are used to analyze medical data and develop treatments for diseases.
+2. Education: Statistical methods are used to analyze student performance and develop better teaching methods.
+3. Business: Statistical methods are used to analyze customer data and develop marketing strategies.
+4. Weather forecasting: Statistical methods are used to analyze weather patterns and predict future weather conditions.
+5. Economics: Statistical methods are used to analyze economic data and develop economic policies.
+6. Politics: Statistical methods are used to analyze voting patterns and develop political strategies.
+7. Sports: Statistical methods are used to analyze player performance and develop better training techniques.
+8. Agriculture: Statistical methods are used to analyze crop yields and develop better farming practices.
+9. Transportation: Statistical methods are used to analyze traffic patterns and develop better transportation systems.
+10. Crime prevention: Statistical methods are used to analyze crime data and develop better crime prevention strategies.
+
+
+Question: Provide evidence for whether statistical methods work or not. In about 300 words
+
+Solution: 
+
+Statistical methods are a set of mathematical techniques used to analyze data and draw conclusions from it. They are used in a variety of fields, including economics, finance, medicine, engineering, and social sciences. Statistical methods are used to make predictions, identify trends, and draw conclusions from data.
+
+The effectiveness of statistical methods depends on the quality of the data and the accuracy of the assumptions made in the analysis. In general, statistical methods are considered to be reliable and accurate when used correctly. However, there are some cases where statistical methods may not be as reliable or accurate as expected.
+
+For example, if the data is incomplete or inaccurate, then the results of the analysis may be misleading or incorrect. Additionally, if the assumptions made in the analysis are incorrect or not supported by the data, then the results may be inaccurate or misleading.
+
+In addition to data quality and assumptions, the effectiveness of statistical methods also depends on the skill of the analyst. If an analyst does not have sufficient knowledge or experience in using statistical methods, then they may not be able to accurately interpret the results or draw meaningful conclusions from them.
+
+Overall, statistical methods can be effective when used correctly and with good quality data. However, if any of these conditions are not met, then the results may be inaccurate or misleading. Therefore, it is important for analysts to have a good understanding of statistical methods and how to use them correctly in order to get reliable and accurate results.
+
+
+Question: What kind of data is good, ones with more variance or less?
+
+Solution: 
+
+Data with more variance is generally better, as it provides more information and allows for more accurate analysis. Data with less variance may be easier to work with, but it may not provide as much insight into the underlying trends or patterns.
+
+
+Question: What kind of data is good, ones with more dispersion or less?
+
+Solution: 
+
+It depends on the context. Generally speaking, data with more dispersion (i.e. greater variability) is more useful for making predictions and drawing conclusions, as it provides more information to work with. However, data with less dispersion can be useful in certain situations, such as when looking for trends or patterns in the data.
+
+
+Question: How do we identify good data in statistics.
+
+Solution: 
+
+Good data in statistics can be identified by looking for data that is accurate, complete, relevant, and timely. Additionally, it is important to look for data that is unbiased and free from errors. Finally, it is important to ensure that the data is collected in a consistent manner and that it is properly documented.
+
+
+Question: What is the root of these concepts:
+Moments
+Skewness
+Kurtosis
+
+Solution: 
+
+Root: Statistics
+
+
+Question: Create a mindmap that shows these topics as leaves of ___:
+Moments
+Skewness
+Kurtosis
+
+Solution: 
+
+Tree:
+Statistics
+└── Moments
+    ├── Skewness
+    └── Kurtosis
+
+
+Question: What is moments in statistics, explain as if I am a 18 year old with 2 examples.
+
+Solution: 
+
+Moments in statistics are measures of the shape of a distribution. They are used to describe the central tendency of a data set, as well as its spread. 
+
+For example, the mean (or average) is a measure of the central tendency of a data set. It is calculated by adding up all the values in the data set and dividing by the number of values. 
+
+The variance is another measure of the spread of a data set. It is calculated by taking the difference between each value in the data set and the mean, squaring it, and then taking the average of all those squared differences. The larger the variance, the more spread out the data is. 
+
+These are just two examples of moments in statistics. There are many more that can be used to describe a data set.
+
+
+Question: Create a mindmap that completes the sub-topics of the following:
+Moments in Statistics
+
+Solution: 
+
+Moments in Statistics
+  -Mean
+    -Arithmetic Mean
+    -Geometric Mean
+    -Harmonic Mean
+  -Median
+  -Mode
+  -Variance
+    -Population Variance
+    -Sample Variance
+  -Standard Deviation
+    -Population Standard Deviation
+    -Sample Standard Deviation
+
+
+Question: List all types of moments in statistics
+
+Solution: 
+
+1. Mean
+2. Median
+3. Mode
+4. Range
+5. Variance
+6. Standard Deviation
+7. Skewness
+8. Kurtosis
+9. Quartiles
+10. Percentiles
+
+
+Question: How are moments calculated?
+
+Solution: 
+
+Moments are calculated by taking the product of the distance of a point from a reference point (usually the origin) and its corresponding force. This product is then summed over all points to calculate the total moment.
+
+
+Question: How are moments calculated in statistcs?
+
+Solution: 
+
+Moments in statistics are calculated by taking the mean, variance, skewness, and kurtosis of a given set of data. The mean is the average of all the values in the data set. The variance is a measure of how spread out the values are from the mean. Skewness is a measure of the asymmetry of the data around the mean. Kurtosis is a measure of how peaked or flat the data is compared to a normal distribution.
+
+
