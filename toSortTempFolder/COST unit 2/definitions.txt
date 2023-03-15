@@ -1,0 +1,9 @@
+In the context of computer-oriented statistical techniques:
+
+    Mean deviation: Mean deviation is a measure of the average deviation of the data values from the mean. It is calculated by finding the absolute difference between each data value and the mean, adding these values, and dividing by the number of data points.
+
+    Variance: Variance is a measure of the spread or dispersion of the data. It is calculated by finding the average of the squared differences between each data value and the mean.
+
+    Skewness: Skewness is a measure of the asymmetry of the data distribution. A positively skewed distribution has a long tail on the right-hand side, while a negatively skewed distribution has a long tail on the left-hand side.
+
+    Kurtosis: Kurtosis is a measure of the peakedness of the data distribution. A distribution with high kurtosis has a sharp peak and heavy tails, while a distribution with low kurtosis has a flatter peak and lighter tails.

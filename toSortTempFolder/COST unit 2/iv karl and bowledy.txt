@@ -1,0 +1,53 @@
+To find Karl Pearson’s coefficient of Skewness and Bowley's coefficient of Skewness for the given data, we need to first find the measures of central tendency and dispersion.
+
+Mean (𝑥̄) = (4+7+5+9+8+3+6)/7 = 6
+
+Median = 6
+
+Mode = No mode
+
+Range = Max value – Min value = 9 – 3 = 6
+
+Variance (𝑠^2) = Σ(𝑥−𝑥̄)^2/n = ((4-6)^2 + (7-6)^2 + (5-6)^2 + (9-6)^2 + (8-6)^2 + (3-6)^2 + (6-6)^2)/7 = 5.14
+
+Standard deviation (𝑠) = √(𝑠^2) = √5.14 = 2.27
+
+Now, using the formulas:
+
+Karl Pearson’s coefficient of Skewness = (3 * (Mean – Median)) / Standard deviation
+
+= (3 * (6 – 6)) / 2.27
+
+= 0
+
+Bowley's coefficient of Skewness = (Q3 + Q1 - 2 Median) / (Q3 - Q1)
+
+where Q1 and Q3 are the first and third quartiles, respectively.
+
+Q1 = 4.5 and Q3 = 8
+
+Bowley's coefficient of Skewness = (8 + 4.5 - 2*6)/(8 - 4.5)
+
+= -0.5
+
+Therefore, the Karl Pearson’s coefficient of Skewness is 0 and the Bowley's coefficient of Skewness is -0.5 for the given data.
+Nitkarsh Chourasia
+In context of Computer Oriented Statistical Techniques,
+What is meant by these terms?
+Mean, Median, Mode, Range, Standard Deviation, Mode of Distribution
+
+In the context of Computer Oriented Statistical Techniques, the following terms can be defined as:
+
+    Mean: It is the arithmetic average of a set of values, obtained by summing all the values and dividing the sum by the number of values.
+
+    Median: It is the middle value of a set of values arranged in order of size.
+
+    Mode: It is the value that appears most frequently in a set of values.
+
+    Range: It is the difference between the maximum and minimum values in a set of values.
+
+    Standard Deviation: It is a measure of the amount of variation or dispersion of a set of values, obtained by calculating the square root of the variance.
+
+    Mode of Distribution: It is the value or values of a random variable that occur most frequently in a data set or probability distribution.
+
+These terms are commonly used in statistical analysis to describe and interpret data sets.

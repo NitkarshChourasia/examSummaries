@@ -1,0 +1,206 @@
+In context of Computer Oriented Statistical Techniques,
+Calculate, Karl Pearson’s coefficient of Skewness, Bowley's coefficient of Skewness for
+the data.
+X 12 14 16 18 20 22
+F 1 4 6 10 7 2
+
+To calculate the Karl Pearson's coefficient of skewness and Bowley's coefficient of skewness for the given data, we need to first find the mean, median, and mode of the data.
+
+To find the mean:
+
+Mean (𝑥̄) = (∑𝑓𝑖𝑥𝑖) / (∑𝑓𝑖)
+
+where 𝑓𝑖 is the frequency of the 𝑖𝑡ℎ class interval and 𝑥𝑖 is the midpoint of the class interval.
+
+markdown
+
+  X     F    FX
+--------------
+12     1    12
+14     4    56
+16     6    96
+18    10   180
+20     7   140
+22     2    44
+--------------
+Total 30   528
+
+So,
+
+Mean (𝑥̄) = (∑𝑓𝑖𝑥𝑖) / (∑𝑓𝑖) = 528 / 30 = 17.6
+
+To find the median:
+
+We can find the median by arranging the data in ascending order and finding the middle value.
+
+12, 14, 14, 14, 14, 16, 16, 16, 16, 16, 16, 18, 18, 18, 18, 18, 18, 18, 18, 18, 20, 20, 20, 20, 20, 20, 20, 22, 22
+
+There are 30 observations in the data, so the median is the average of the 15th and 16th observations.
+
+makefile
+
+Median = (16 + 16) / 2 = 16
+
+To find the mode:
+
+The mode is the value that occurs most frequently in the data. From the frequency distribution, we can see that the mode is 18.
+
+Now we can calculate the Karl Pearson's coefficient of skewness:
+
+Karl Pearson's coefficient of skewness = (3 * (Mean - Median)) / Standard Deviation
+
+To calculate the standard deviation, we need to find the sum of squares of deviations from the mean.
+
+markdown
+
+  X     F    FX   Deviation (X-𝑥̄)   Deviation^2
+-------------------------------------------------
+12     1    12       -5.6              31.36
+14     4    56       -3.6              12.96
+16     6    96       -1.6               2.56
+18    10   180        0                 0
+20     7   140        2.4               5.76
+22     2    44        4.4              19.36
+-------------------------------------------------
+Total 30   528                          72
+
+So,
+
+Standard Deviation = sqrt(∑(𝑋𝑖-𝑥̄)^2 / N) = sqrt(72/30) = 1.96
+
+Substituting the values in the formula, we get:
+
+rust
+
+Karl Pearson's coefficient of skewness = (3 * (17.6 - 16)) / 1.96 = 3.47
+
+To calculate Bowley's coefficient of skewness, we need to find the values of the first quartile(Q1), second quartile(Q2) and third quartile(Q3).
+
+
+
+
+
+find median from this :
+  X     F    FX
+--------------
+12     1    12
+14     4    56
+16     6    96
+18    10   180
+20     7   140
+22     2    44
+--------------
+Total 30   528
+
+To find the median from this data, we need to first find the cumulative frequency. We can add up the frequency column to get the cumulative frequency.
+X F FX Cumulative Frequency
+12 1 12 1
+14 4 56 5
+16 6 96 11
+18 10 180 21
+20 7 140 28
+22 2 44 30
+
+Total 30 528
+
+The total frequency is 30, which is an even number. To find the median, we need to take the average of the two middle values. The middle two values are the 15th and 16th values (since 30/2 = 15). Looking at the cumulative frequency column, we can see that the value of 15 falls within the class interval 16-18. To find the exact value of the 15th value, we can use the following formula:
+
+Median = L + [(N/2 - CF) / f] * w
+
+Where:
+L = lower class boundary of the interval containing the median (16 in this case)
+N = total frequency (30 in this case)
+CF = cumulative frequency up to the end of the interval just before the median interval (11 in this case)
+f = frequency of the median interval (10 in this case)
+w = width of each interval (2 in this case)
+
+Plugging in the values, we get:
+
+Median = 16 + [(15/2 - 11) / 10] * 2
+= 16 + (2/10) * 2
+= 16.4
+
+Therefore, the median of the given data is 16.4.
+
+
+
+In context of Computer Oriented Statistical Techniques,
+Calculate, Karl Pearson’s coefficient of Skewness, Bowley's coefficient of Skewness for
+the data.
+X 12 14 16 18 20 22
+F 1 4 6 10 7 2
+
+To calculate the Karl Pearson’s coefficient of Skewness, we need to first find the mean, median and standard deviation of the data.
+
+Calculating Mean:
+The mean can be calculated by using the formula:
+
+Mean = (∑FX) / (∑F) = (121 + 144 + 166 + 1810 + 207 + 222) / (1+4+6+10+7+2) = 16.8
+
+Calculating Median:
+To calculate the median, we first need to calculate the cumulative frequency.
+
+X F CF
+12 1 1
+14 4 5
+16 6 11
+18 10 21
+20 7 28
+22 2 30
+
+The median is the value that is at the middle of the data set. As we have 30 observations, the median will be the average of the 15th and 16th observation.
+
+(16th observation + 15th observation) / 2
+= (18 + 18) / 2
+= 18
+
+Calculating Standard Deviation:
+The formula to calculate the standard deviation is:
+
+σ = sqrt[ (∑(X - M)2 * F) / N]
+
+where,
+M = mean
+N = total number of observations
+
+Using the above formula, we get:
+
+σ = sqrt[ ( ( (12 - 16.8)^2 * 1) + ( (14 - 16.8)^2 * 4) + ( (16 - 16.8)^2 * 6) + ( (18 - 16.8)^2 * 10) + ( (20 - 16.8)^2 * 7) + ( (22 - 16.8)^2 * 2) ) / 30]
+= 2.9928
+
+Using the mean, median and standard deviation values, we can calculate the Karl Pearson’s coefficient of Skewness using the formula:
+
+Karl Pearson’s coefficient of Skewness = 3 * (Mean - Median) / σ
+
+Karl Pearson’s coefficient of Skewness = 3 * (16.8 - 18) / 2.9928
+= -0.602
+
+Bowley's coefficient of Skewness can be calculated using the formula:
+
+Bowley's coefficient of Skewness = (Q3 + Q1 - 2 * Median) / (Q3 - Q1)
+
+where Q1 is the first quartile and Q3 is the third quartile.
+
+Calculating Quartiles:
+To calculate quartiles, we first need to calculate the cumulative frequency percentage.
+
+X F CF CF%
+12 1 1 3.33
+14 4 5 16.67
+16 6 11 36.67
+18 10 21 70.00
+20 7 28 93.33
+22 2 30 100.00
+
+Q1 = the value that is at the 25th percentile. This means that 25% of the data lies below this value. Therefore,
+
+Q1 = (25/100)*30 = 7.5th value = 16
+
+Q3 = the value that is at the 75th percentile. This means that 75% of the data lies below this value. Therefore,
+
+Q3 = (75/100)*30 = 22.5th value = 20
+
+Using the above values, we get:
+
+Bowley's coefficient of Skewness = (Q3 + Q1 - 2 * Median) / (Q3 - Q1)
+= (20 + 16 -

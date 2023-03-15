@@ -1,0 +1,50 @@
+In context of Computer Oriented Statistical Techniques,
+Find coefficient of kurtosis of the set of the numbers: 2, 3, 7, 8, 10
+
+To find the coefficient of kurtosis of the given set of numbers, we first need to calculate the fourth moment about the mean and the variance of the data.
+
+The mean of the given data is:
+
+Mean (μ) = (2 + 3 + 7 + 8 + 10)/5 = 30/5 = 6
+
+The variance of the given data is:
+
+σ² = [(2-6)² + (3-6)² + (7-6)² + (8-6)² + (10-6)²]/5
+
+σ² = [16 + 9 + 1 + 4 + 16]/5
+
+σ² = 46/5
+
+σ² = 9.2
+
+Now, we need to calculate the fourth moment about the mean, which is given by the formula:
+
+m₄ = [∑(Xᵢ-μ)⁴]/n
+
+where Xᵢ represents the ith data value, μ represents the mean of the data, and n represents the sample size.
+
+Substituting the values, we get:
+
+m₄ = [(2-6)⁴ + (3-6)⁴ + (7-6)⁴ + (8-6)⁴ + (10-6)⁴]/5
+
+m₄ = [16 + 81 + 1 + 4 + 256]/5
+
+m₄ = 358/5
+
+m₄ = 71.6
+
+Now, we can calculate the coefficient of kurtosis using the formula:
+
+Kurtosis = [m₄/(σ²)²] - 3
+
+Substituting the values, we get:
+
+Kurtosis = [71.6/(9.2)²] - 3
+
+Kurtosis = [71.6/84.64] - 3
+
+Kurtosis = 0.846 - 3
+
+Kurtosis = -2.154
+
+Therefore, the coefficient of kurtosis of the given set of numbers is -2.154. Since the kurtosis is less than 3, it indicates that the distribution is platykurtic, which means it is flatter and more dispersed than the normal distribution.

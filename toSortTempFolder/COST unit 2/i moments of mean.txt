@@ -1,0 +1,51 @@
+Sure, here are the first four moments about the mean for the set of numbers 2, 5, 8, 11, 14, 17:
+
+First moment about the mean (Mean Deviation):
+
+The mean of the set is (2 + 5 + 8 + 11 + 14 + 17) / 6 = 9.5
+
+The first moment about the mean is the sum of the deviations of each data point from the mean, divided by the total number of data points.
+
+So, the first moment about the mean is:
+
+(2 - 9.5) + (5 - 9.5) + (8 - 9.5) + (11 - 9.5) + (14 - 9.5) + (17 - 9.5) / 6
+
+= (-7.5 + -4.5 + -1.5 + 1.5 + 4.5 + 7.5) / 6
+
+= 0
+
+Second moment about the mean (Variance):
+
+The second moment about the mean is the average of the squared deviations from the mean. It gives an idea of how much the data is spread out.
+
+So, the second moment about the mean is:
+
+[ (2 - 9.5)^2 + (5 - 9.5)^2 + (8 - 9.5)^2 + (11 - 9.5)^2 + (14 - 9.5)^2 + (17 - 9.5)^2 ] / 6
+
+= [ 54.5 + 21.5 + 2.25 + 2.25 + 21.5 + 54.5 ] / 6
+
+= 28.75
+
+Third moment about the mean (Skewness):
+
+The third moment about the mean is a measure of the symmetry of the data. A positive value indicates that the tail of the distribution is longer on the right side than on the left side. A negative value indicates the opposite.
+
+So, the third moment about the mean is:
+
+[ (2 - 9.5)^3 + (5 - 9.5)^3 + (8 - 9.5)^3 + (11 - 9.5)^3 + (14 - 9.5)^3 + (17 - 9.5)^3 ] / [ 6 * (28.75)^(3/2) ]
+
+= [ -304.5 + -91.125 + -5.0625 + 5.0625 + 91.125 + 304.5 ] / [ 6 * (28.75)^(3/2) ]
+
+= 0
+
+Fourth moment about the mean (Kurtosis):
+
+The fourth moment about the mean is a measure of the peakedness of the distribution. A high value indicates a sharper peak and heavier tails. A low value indicates a flatter peak and lighter tails.
+
+So, the fourth moment about the mean is:
+
+[ (2 - 9.5)^4 + (5 - 9.5)^4 + (8 - 9.5)^4 + (11 - 9.5)^4 + (14 - 9.5)^4 + (17 - 9.5)^4 ] / [ 6 * (28.75)^(2) ]
+
+= [ 17119.8125 + 1163.859375 + 15.06640625 + 15.06640625 + 1163.859375 + 17119.8125 ] / [ 6 * (28.75)^(2) ]
+
+= 2.272

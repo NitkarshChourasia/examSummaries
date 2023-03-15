@@ -1,0 +1,102 @@
+In context of Computer Oriented Statistical Techniques,
+What is kurtosis? Explain different types of kurtosis
+
+Kurtosis is a measure of the peakedness and thickness of the tails of a probability distribution compared to a normal distribution. A normal distribution has a kurtosis of 3, which is sometimes referred to as "mesokurtic." A distribution with a kurtosis greater than 3 is said to be "leptokurtic," which means it has a higher peak and fatter tails than the normal distribution. A distribution with a kurtosis less than 3 is said to be "platykurtic," which means it has a lower peak and thinner tails than the normal distribution.
+
+There are three types of kurtosis:
+
+    Leptokurtic: A distribution with a kurtosis greater than 3 is said to be leptokurtic. This means that the distribution has a higher peak and fatter tails than the normal distribution. Leptokurtic distributions are more peaked than the normal distribution, and have more data points closer to the mean. Examples of leptokurtic distributions include the t-distribution and the Laplace distribution.
+
+    Mesokurtic: A distribution with a kurtosis of 3 is said to be mesokurtic. This means that the distribution has the same peakedness and thickness of tails as the normal distribution. The normal distribution is an example of a mesokurtic distribution.
+
+    Platykurtic: A distribution with a kurtosis less than 3 is said to be platykurtic. This means that the distribution has a lower peak and thinner tails than the normal distribution. Platykurtic distributions are less peaked than the normal distribution, and have more data points farther from the mean. Examples of platykurtic distributions include the uniform distribution and the exponential distribution.
+
+Nitkarsh Chourasia
+In context of Computer Oriented Statistical Techniques,
+What is skewness? Explain different types of skewness?
+
+Skewness is a measure of the asymmetry of a probability distribution. It indicates whether the data is skewed to the left or right, or if it is symmetrical.
+
+There are three types of skewness:
+
+    Positive skewness: A distribution is said to be positively skewed if the tail on the right side of the distribution is longer or fatter than the left side. In other words, the majority of the data is concentrated on the left side of the distribution and there are some extreme values on the right side of the distribution. A positively skewed distribution has a tail that points to the right.
+
+    Negative skewness: A distribution is said to be negatively skewed if the tail on the left side of the distribution is longer or fatter than the right side. In other words, the majority of the data is concentrated on the right side of the distribution and there are some extreme values on the left side of the distribution. A negatively skewed distribution has a tail that points to the left.
+
+    Symmetrical skewness: A distribution is said to be symmetrical if the data is evenly distributed on both sides of the distribution. The mean, median, and mode are equal in a symmetrical distribution.
+
+Skewness is measured using the coefficient of skewness. The two most commonly used measures of skewness are Karl Pearson’s coefficient of skewness and Bowley's coefficient of skewness.
+Nitkarsh Chourasia
+In context of Computer Oriented Statistical Techniques,
+Write empirical relations of measures of central tendency and dispersion
+
+In statistics, empirical relations are used to understand the relationship between measures of central tendency (mean, median, mode) and measures of dispersion (range, variance, standard deviation). Here are some commonly used empirical relations:
+
+    For a normal distribution, approximately 68% of the data falls within one standard deviation of the mean, 95% of the data falls within two standard deviations of the mean, and 99.7% of the data falls within three standard deviations of the mean.
+
+    The coefficient of variation (CV), which is the ratio of the standard deviation to the mean, is a relative measure of dispersion. The CV is often used to compare the variability of different data sets with different means.
+
+    Chebyshev's theorem states that for any data set, at least 1-1/k^2 of the data falls within k standard deviations of the mean, where k is any positive integer greater than 1. For example, at least 75% of the data falls within 2 standard deviations of the mean (k=2), and at least 89% of the data falls within 3 standard deviations of the mean (k=3).
+
+    The range is a measure of dispersion that is the difference between the maximum and minimum values in a data set. It is often used as a quick and simple measure of variability, but it is sensitive to outliers and does not account for the distribution of the data.
+
+    The interquartile range (IQR) is a measure of dispersion that is the difference between the upper and lower quartiles in a data set. The IQR is more robust than the range and is often used to identify outliers and assess the spread of skewed data.
+
+    The mean absolute deviation (MAD) is a measure of dispersion that is the average of the absolute deviations from the mean. The MAD is a robust measure of variability that is less affected by outliers than the standard deviation, but it is more difficult to use in statistical calculations.
+
+    The standard error of the mean (SEM) is a measure of the precision of the sample mean estimate. It is the standard deviation of the sample mean distribution and is often used to calculate confidence intervals for the population mean. The SEM decreases as sample size increases, indicating that larger sample sizes provide more precise estimates of the population mean.
+
+Nitkarsh Chourasia
+In context of Computer Oriented Statistical Techniques,
+What is meant by central tendency,
+What is meant by dispersion?
+
+In statistics, central tendency is a descriptive summary of a dataset that represents the typical or central value of the observations. It is used to describe where the majority of the data is clustered around. The three measures of central tendency are the mean, median, and mode.
+
+Dispersion, on the other hand, refers to the extent to which a dataset is spread out or dispersed. In other words, it tells us how much variation or diversity exists in a dataset. Measures of dispersion include range, variance, standard deviation, and mean deviation. These measures help to determine how much the individual observations deviate from the central tendency. A large dispersion indicates that the observations are spread out and vary widely from the central tendency, while a small dispersion indicates that the observations are tightly clustered around the central tendency.
+Nitkarsh Chourasia
+In context of Computer Oriented Statistical Techniques,
+State merits and demerits of mean, median and mode
+
+Mean, median and mode are commonly used measures of central tendency in statistics.
+
+Merits of Mean:
+
+    The mean is the most commonly used measure of central tendency.
+    It is useful in many statistical techniques because it takes into account every data point.
+    It is sensitive to small changes in the data set.
+    It provides a good measure of the typical value of a data set.
+
+Demerits of Mean:
+
+    The mean is sensitive to outliers, which can skew the data.
+    It is not a good measure of central tendency for skewed or heavily-tailed distributions.
+    It can be affected by extreme values and is not robust to outliers.
+
+Merits of Median:
+
+    The median is a better measure of central tendency for skewed or heavily-tailed distributions.
+    It is not affected by extreme values or outliers.
+    It is a good measure of central tendency for ordinal and interval data.
+
+Demerits of Median:
+
+    It can be less precise than the mean, as it only takes into account the middle value(s) of the data set.
+    It is not as useful in some statistical techniques that require a measure of central tendency.
+
+Merits of Mode:
+
+    The mode is useful for nominal and categorical data.
+    It is not affected by extreme values or outliers.
+    It is useful in describing the shape of the distribution of data.
+
+Demerits of Mode:
+
+    It is not a good measure of central tendency for skewed distributions or continuous data.
+    A data set can have multiple modes or no mode at all.
+    It is not useful in many statistical techniques that require a measure of central tendency.
+
+Nitkarsh Chourasia
+what do you mean by outliers in the above response?
+
+In statistics, an outlier is an observation or data point that lies an abnormal distance away from other values in a random sample from a population. In other words, an outlier is a value that is significantly different from other values in a dataset. Outliers can occur due to measurement or data entry errors, natural variation in the data, or unusual events or circumstances. It is important to identify outliers because they can have a significant impact on the results of statistical analyses and may require special treatment or removal from the dataset.

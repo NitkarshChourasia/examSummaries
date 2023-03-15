@@ -1,0 +1,32 @@
+The raw moments of a set of numbers are calculated by raising each value to a power and then taking the arithmetic mean of those values.
+
+The formula for the kth raw moment is:
+
+M_k = (1/n) * Σ(xi^k)
+
+where n is the number of values in the set, xi is the ith value in the set, and k is the order of the moment.
+
+For the set of numbers: 2, 5, 8, 11, 14, 17
+
+The first raw moment (k=1) is simply the arithmetic mean of the values:
+
+M_1 = (2+5+8+11+14+17)/6 = 9.5
+
+The second raw moment (k=2) is calculated as:
+
+M_2 = (1/6) * [(2^2)+(5^2)+(8^2)+(11^2)+(14^2)+(17^2)] = 119.1667
+
+The third raw moment (k=3) is calculated as:
+
+M_3 = (1/6) * [(2^3)+(5^3)+(8^3)+(11^3)+(14^3)+(17^3)] = 1875.5
+
+The fourth raw moment (k=4) is calculated as:
+
+M_4 = (1/6) * [(2^4)+(5^4)+(8^4)+(11^4)+(14^4)+(17^4)] = 36339.6667
+
+Therefore, the first four raw moments for the set of numbers 2, 5, 8, 11, 14, 17 are:
+
+M_1 = 9.5
+M_2 = 119.1667
+M_3 = 1875.5
+M_4 = 36339.6667
